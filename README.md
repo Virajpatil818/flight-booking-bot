@@ -73,7 +73,3 @@ Contributions to improve the bot's functionality or add new features are welcome
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Feel free to adjust and expand this README file according to your actual project details and requirements!
