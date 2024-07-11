@@ -70,6 +70,3 @@ flight-booking-bot/
 
 Contributions to improve the bot's functionality or add new features are welcome! Please fork the repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
